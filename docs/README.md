@@ -6,7 +6,7 @@
 |---|---|
 |氏名| 藤野 真由佳（Fujino Mayuka） |
 |生年月日| 1993/05/26 |
-|Twitter| @n_skij |
+|Twitter| <a href="https://twitter.com/n_skij">@n_skij</a> |
 |Qiita| <a href="https://qiita.com/nskij">https://qiita.com/nskij</a> |
 |note（会社用）| <a href="https://note.com/m_fujino">https://note.com/m_fujino</a> |
 |note（個人用）| <a href="https://note.com/nskij">https://note.com/nskij</a> |
