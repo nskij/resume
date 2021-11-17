@@ -7,12 +7,12 @@
 |氏名| 藤野 真由佳（Fujino Mayuka） |
 |生年月日| 1993/05/26 |
 |Twitter| @n_skij |
-|Qiita| https://qiita.com/nskij |
-|note（会社用）| https://note.com/m_fujino |
-|note（個人用）| https://note.com/nskij |
-|Zenn| https://zenn.dev/nskij |
-|SpeakerDeck| https://speakerdeck.com/nskij |
-|hatena| https://nskij.hatenablog.com/ |
+|Qiita| <a href="https://qiita.com/nskij">https://qiita.com/nskij</a> |
+|note（会社用）| <a href="https://note.com/m_fujino">https://note.com/m_fujino</a> |
+|note（個人用）| <a href="https://note.com/nskij">https://note.com/nskij</a> |
+|Zenn| <a href="https://zenn.dev/nskij">https://zenn.dev/nskij</a> |
+|SpeakerDeck| <a href="https://speakerdeck.com/nskij">https://speakerdeck.com/nskij</a> |
+|hatena| <a href="https://nskij.hatenablog.com/">https://nskij.hatenablog.com/</a> |
 
 ---
 
